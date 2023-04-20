@@ -1,0 +1,19 @@
+{
+  "Products": [
+    {
+      "name": "samsung galaxy s23",
+      "brand": "samsung",
+      "category": "mobile",
+      "price": "1,20,000",
+      "id": 1
+    },
+    {
+      "name": "iphone 14s",
+      "brand": "apple",
+      "category": "mobile",
+      "price": "1,47,000",
+      "id": 2,
+      "catogory": "mobile"
+    }
+  ]
+}
